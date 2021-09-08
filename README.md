@@ -14,13 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<!-- 
 I'm a fullstack software developer currently working on all sorts of innovative projects ranging from web development to machine learning.
 
 Some technologies that I am proficient in are:
 
-![angular](https://user-images.githubusercontent.com/48122494/132556479-3b590714-f5b8-4bf1-89bc-f01e7cadebae.png)  ![react](https://user-images.githubusercontent.com/48122494/132556508-8612b244-54bc-4999-b0ca-6775a7db898b.jpg)
 
 
 
-![Aman's GitHub stats](https://github-readme-stats.vercel.app/api?username=aaman123&hide=contribs,prs)
+![Aman's GitHub stats](https://github-readme-stats.vercel.app/api?username=aaman123&hide=contribs,prs) -->
